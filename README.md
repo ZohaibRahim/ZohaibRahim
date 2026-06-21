@@ -1,8 +1,8 @@
 ## About Me:
 
-**Zohaib Rahim**
+### **Zohaib Rahim**
 
-_Computer Science Student | Data & Automation | Applied Security_
+*Computer Science Student | Data & Automation | Applied Security*
 
 I'm a final-year Computer Science student at the University of Northern British Columbia, focused on the intersection of data analytics, process automation, and applied cybersecurity. I've built production-level automation and reporting systems during co-op terms at the Provincial Health Services Authority and the Aga Khan Development Network, and I'm currently extending that foundation into security-focused scripting and research.
 
