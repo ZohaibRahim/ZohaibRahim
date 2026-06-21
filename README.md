@@ -40,4 +40,4 @@ My goal is to build systems that are well-documented, automated where it counts,
 
 > "Automate what repeats. Document what matters. Verify everything."
 >
-> — Zohaib Rahim
+> ~ Zohaib Rahim
