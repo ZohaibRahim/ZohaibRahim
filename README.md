@@ -2,11 +2,11 @@
 
 **Zohaib Rahim**
 
-Computer Science Student | Data & Automation | Applied Security
+_Computer Science Student | Data & Automation | Applied Security_
 
 I'm a final-year Computer Science student at the University of Northern British Columbia, focused on the intersection of data analytics, process automation, and applied cybersecurity. I've built production-level automation and reporting systems during co-op terms at the Provincial Health Services Authority and the Aga Khan Development Network, and I'm currently extending that foundation into security-focused scripting and research.
 
-My goal is to build systems that are well-documented, automated where it counts, and grounded in evidence — whether that's a data pipeline, a security script, or a research report.
+My goal is to build systems that are well-documented, automated where it counts, and grounded in evidence - whether that's a data pipeline, a security script, or a research report.
 
 ## Socials:
 
