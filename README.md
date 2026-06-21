@@ -32,7 +32,6 @@ My goal is to build systems that are well-documented, automated where it counts,
 
 ## Currently Building:
 
-- Security automation scripting in PowerShell and Python (log parsing, alert triage, pattern detection)
 - Active Directory and Windows security fundamentals
 - DP900 Certification - Microsoft Certified: Azure Data Fundamentals
 
