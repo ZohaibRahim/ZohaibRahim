@@ -30,10 +30,16 @@ My goal is to build systems that are well-documented, automated where it counts,
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+## Certifications:
+ 
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active_Directory_Basics-red?style=for-the-badge&logo=tryhackme&logoColor=white)
+![DP-900](https://img.shields.io/badge/Microsoft_DP--900-In_Progress-orange?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ISC2 CC](https://img.shields.io/badge/ISC2_CC-Planned-lightgrey?style=for-the-badge)
+ 
 ## Currently Building:
-
-- Active Directory and Windows security fundamentals
-- DP900 Certification - Microsoft Certified: Azure Data Fundamentals
+ 
+- Microsoft Azure Data Fundamentals (DP-900)
+- ISC2 Certified in Cybersecurity (CC)
 
 ## Dev Quote
 
